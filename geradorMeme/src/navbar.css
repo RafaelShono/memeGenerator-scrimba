@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+}
+.Navbar{
+    height: 65px;
+    width: 550px;
+
+    display: flex;
+    align-items: center;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    justify-content: space-between;
+    
+}
+.imagem-texto{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+.nav-texto{
+    margin-right: 15px;
+}
